@@ -559,7 +559,8 @@
 
 .styles_button__qcu28 {
     padding: 8px 42px !important;
-    border-radius: 8px !important
+    border-radius: 8px !important;
+    cursor: pointer;
 }
 
 .styles_heading__cmDRT {

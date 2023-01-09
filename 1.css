@@ -110,6 +110,7 @@ p {
 }
 
 .ui_button_container.ui_ps_themeType_primary:hover {
+    cursor: pointer;
     background-color: var(--color-primary-1)
 }
 

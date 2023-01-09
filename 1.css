@@ -84,7 +84,6 @@ p {
 
 .ui_button_container.ui_ps_size_md {
     min-width: 72px;
-    height: 36px;
     padding: 4px 16px;
     font-size: 13px
 }
@@ -543,7 +542,8 @@ button {
 }
 
 .styles_port__z0ujg {
-    line-height: 2rem
+    line-height: 2rem;
+    color: #000;
 }
 
 .styles_port__z0ujg a {
@@ -563,7 +563,8 @@ button {
     width: 100%;
     padding: 0 50px 50px;
     font-family: var(--font-family);
-    background: #fbdc00
+    background: #fbdc00;
+    color: #000;
 }
 
 
@@ -625,7 +626,8 @@ button {
     font-family: var(--font-family-heading);
     font-size: 12px;
     font-weight: 700;
-    list-style-type: none
+    list-style-type: none;
+    color: #000;
 }
 
 .styles_copyright_list__zrvQ7 a {
@@ -1039,7 +1041,7 @@ button {
 }
 
 .styles_is_topbar_fixed__HEhYp {
-    background: #fff;
+    /* background: #fff; */
     box-shadow: 0 1px 6px rgba(169, 188, 218, .65)
 }
 

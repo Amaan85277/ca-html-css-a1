@@ -10,3 +10,6 @@ Create a replica of https://www.cogoport.com/ first page (no need to create any 
 
 Things to note:
 - Additional points if you can make the website responsive
+
+
+# I made a different repository (forgot to fork this one) so only the finalised commits are present here
